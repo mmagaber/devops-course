@@ -1,0 +1,8 @@
+ git --version
+ mkdir green
+cd green
+git init
+ git status
+git add class.text
+git commit -m "first commit"
+git diff
