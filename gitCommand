@@ -1,0 +1,22 @@
+git --version
+mkdir green
+cd green
+git init
+git status
+git add class.text or . for all fills 
+git commit -m "first commit"
+git remote add origin ” Url to repository from githup”
+git push origin master 
+Make a new mkdir + cd the new dir
+git clone  https://github.com/mmagaber/devops-course.git
+git pull
+git branch(name of the new branch) to make a new branch
+git branch works like ls to see all the branch
+git branch -D (the name of the branch) 
+git checkout(branch name) to switch between branch
+git log to see all work history
+git stash to save the work without committing the code
+git stash pop to restore the work back again 1:00 on the video
+git revert(commit-id) to get out of the screen type :w then :q
+git diff (git id from git log)
+
